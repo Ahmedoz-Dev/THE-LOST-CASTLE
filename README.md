@@ -14,6 +14,12 @@ Play on Itch.io: [https://ahmedoz.itch.io/the-lost-castle](https://ahmedoz.itch.
 
 ---
 
+## 🎥 Gameplay Video
+
+[![Watch on YouTube](https://img.youtube.com/vi/vNjzk9qQkqE/maxresdefault.jpg)](https://youtu.be/vNjzk9qQkqE)
+
+---
+
 ## 🕹️ Controls
 
 ### On Windows:
